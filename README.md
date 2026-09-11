@@ -207,23 +207,3 @@ I enjoy turning ideas into practical software — from **AI assistants and compu
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurba-pal&theme=tokyonight&layout=compact&hide_border=false" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Apurba-pal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Apurba-pal&icon=0&color=3" />
-</p>
-
----
-
-<p align="center">
-  <i>💡 Building software, exploring AI, and turning ideas into reality.</i>
-</p>
