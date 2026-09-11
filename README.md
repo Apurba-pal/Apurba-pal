@@ -10,7 +10,7 @@
 💡 Passionate about **AI-driven applications**, **automation tools**, and **3D interactive web experiences**  
 🧠 Exploring **Neural Networks**, **Computer Vision**, and **Generative AI**  
 🛠️ Love building tools that **make life easier and smarter**  
-🌐 Portfolio → [apurba.site](https://apurba.site)  
+🌐 Portfolio → [apurbapal.site](https://apurbapal.site)  
 📬 Reach me at **palapurba2004@gmail.com**  
 
 ---
